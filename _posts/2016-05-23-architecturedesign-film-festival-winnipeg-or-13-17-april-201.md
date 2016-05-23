@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://adff.ca'
-  name: Adff
-  favicon: null
-  domain: adff.ca
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://adff.ca/'
+inLanguage: en
 keywords:
   - winnipeg
   - architecture
@@ -18,19 +16,24 @@ keywords:
   - architects
   - urban
 description: ''
-inLanguage: en
+datePublished: '2016-05-23T17:42:37.679Z'
+dateModified: '2016-05-23T17:42:37.068Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://adff.ca/'
 title: 'Architecture+Design Film Festival Winnipeg | 13-17 April 2016'
-datePublished: '2016-05-23T17:35:11.886Z'
-dateModified: '2016-05-23T17:34:42.606Z'
-starred: false
 sourcePath: _posts/2016-05-23-architecturedesign-film-festival-winnipeg-or-13-17-april-201.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Adff
+  domain: adff.ca
+  url: 'http://adff.ca'
+  favicon: null
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
 <article style=""><h1>Architecture+Design Film Festival Winnipeg | 13-17 April 2016</h1></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd30c8e8-dc28-45ec-8c91-957d3dcc9c76.jpg)

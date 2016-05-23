@@ -1,7 +1,7 @@
 name: designery
 favicon: null
-layout_spectrum: 0.88343
-typography_spectrum: 0.74374
+layout_spectrum: 0.17438
+typography_spectrum: 0.1474
 title: designery by mrmkurtz
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#00a6bc'
     - '#b5b7b4'
     - '#ff615d'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.875
-  saturation: 0.5
-  rhythmicContrast: 0.25
+  saturation: 0.75
+  rhythmicContrast: 0.75
 purpose: []
